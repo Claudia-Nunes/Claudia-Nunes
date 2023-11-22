@@ -19,11 +19,7 @@
         <img alignm alt= "html5" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
     </div><br>
 
-    Estudante de Tecnoligia pela Fatec de Jacareí, a cada dia mais apaixonada pela programação.
+    
 
-## Sites que super recomendo para estudos complementares:
 
--[https://www.cursoemvideo.com/meus-cursos/]<br>
--[https://www.thicode.com.br/links]
 
-https://andreyluiz.com/burn-it-down/#/sprint/d8xpghjm
